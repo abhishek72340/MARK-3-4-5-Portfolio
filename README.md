@@ -1,4 +1,4 @@
- <h1>Portfolio developed by using html,css</h1>
+ <h1>Portfolio, developed by using html5,css3</h1>
  <h2>This is portfolio Abhishek Singh Rana </h2> 
  <h3>It is neogCamp mark3,4,5- project</h3>
  
